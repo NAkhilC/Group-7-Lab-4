@@ -1,0 +1,145 @@
+.div1
+{
+color: white;
+display: flex;
+width: 99%;
+margin-left: 10px;
+}
+.nav
+{
+    width: 75%;
+    margin-top: 20px;
+    padding: 10px;
+}
+a
+{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+h1,h3,h2
+{
+	 font-family: "Lucida Console", Courier, monospace;
+}
+.div12
+{
+	background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 10, 0.6)
+    ), url(hampi4.jpg);
+       background-size: auto;
+       width: 60%;
+       height: 300px;
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5px;
+  overflow: hidden;
+   overflow-y: scroll;
+   text-align: justify;
+   padding: 5px;
+}
+.hr1
+{
+	height: 10px;
+	background-color: white;
+	width: 30%;
+}
+.idiv
+{
+}
+.divi1
+{
+	display: flex;
+	overflow: hidden;
+}
+.divi12
+{
+	width: 250px;
+	height: 150px;
+	margin-left: 5px;
+}
+.divi13
+{
+	width: 250px;
+	height: 150px;
+	margin-left: 5px;
+}
+.divi2
+{
+	height: 150px;
+	margin-top: 5px;
+
+}
+.divi22
+{
+	width: 250px;
+	height: 155px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.divi23
+{
+	width: 250px;
+	height: 155px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.div2
+{
+color: white;
+display: flex;
+width: 99%;
+margin-left: 10px;
+}
+.div22
+{
+	background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 10, 0.6)
+    ), url(maha.jpg);
+       background-size: auto;
+       width: 60%;
+       height: 300px;
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5px;
+  overflow: hidden;
+   overflow-y: scroll;
+   text-align: justify;
+}
+.div32
+{
+	background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 10, 0.6)
+    ), url(fatem.jpg);
+       background-size: auto;
+       width: 60%;
+       height: 300px;
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5px;
+  overflow: hidden;
+   overflow-y: scroll;
+   text-align: justify;
+}
+p
+{
+	 line-height: 1.6;
+}
+.morep
+{
+	width: 100%; height: 80%
+}
+.divem
+{
+	display: flex;
+	overflow: hidden;
+}
+#hamiid1:hover {
+    opacity: 0.5;
+}
+
